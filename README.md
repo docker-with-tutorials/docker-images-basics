@@ -21,7 +21,7 @@ This repository focuses on building that mental model. The goal is not to memori
   - [Registry](#registry)
   - [Repository](#repository)
 - [Inspecting Images](#inspecting-images)
-- 
+  
 ## Introduction
 
 This repository was created to explain what Docker images really are and why they are so important in the container ecosystem.
