@@ -1,3 +1,11 @@
+<p align="center"><strong>Built images by developers, for developers.</strong></p>
+
+<p align="center">
+  <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/ac3a20f2-0dbe-468e-8cf4-059b4e16c5e5" />
+</p>
+
+---
+
 # Docker Images Basics
 
 Docker images are the foundation of everything that happens in Docker. Every container starts from an image, but many people use images without really understanding what they are.
@@ -21,6 +29,8 @@ This repository focuses on building that mental model. The goal is not to memori
   - [Registry](#registry)
   - [Repository](#repository)
 - [Inspecting Images](#inspecting-images)
+
+---
   
 ## Introduction
 
