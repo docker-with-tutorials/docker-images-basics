@@ -37,7 +37,6 @@ This repository focuses on building that mental model. The goal is not to memori
 This repository was created to explain what Docker images really are and why they are so important in the container ecosystem.
 
 Many people start using Docker by learning commands and following tutorials, but without understanding images in depth, containers often feel like a black box. You run a command and something works, but the internal logic behind it is not always clear. Since every container is created from an image, understanding images is the key to understanding how Docker behaves.
-
 An image defines the filesystem, the dependencies, the metadata, and the default process that will start when a container is created. It is the blueprint that shapes everything that happens at runtime. If the structure of the image is clear in your mind, concepts like layers, caching, immutability, and even build optimization become much easier to grasp.
 The purpose of this repository is to build that mental model step by step, focusing on understanding rather than memorizing commands.
 
